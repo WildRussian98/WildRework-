@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/engineer/2s3m/2s3_track_diff"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.14 0.14 0.14]"
+}

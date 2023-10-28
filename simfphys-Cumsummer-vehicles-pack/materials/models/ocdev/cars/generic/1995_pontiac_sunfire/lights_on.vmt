@@ -1,0 +1,8 @@
+patch
+{
+	include "materials/models/OCDEV/cars/generic/lights_on_base.vmt"
+	insert
+	{
+	$basetexture "models/OCDEV/cars/generic/1995_pontiac_sunfire/lights_on"
+	}
+}

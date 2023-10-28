@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/cod_station_wagon/interior_d"
+	"$bumpmap" "models/cod_station_wagon/interior_n"
+	"$multipass" 0
+
+	"$phong" "0"
+	"$phongexponent" "15"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[0.4 1 4]"
+	"$phongalbedotint" "1"
+
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "25"
+	"$rimlightboost" "0.5"
+}

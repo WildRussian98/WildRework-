@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/lizard_cougar/window_diffuse"
+"$bumpmap" "models/lizard_cougar/bumpmap_alt"
+"$ambientocculusion" "models/lizard_cougar/bumpmap_alt"
+"$surfaceprop" "Glass"
+"$nocull" 1
+"$halflambert" 1
+"$translucent" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

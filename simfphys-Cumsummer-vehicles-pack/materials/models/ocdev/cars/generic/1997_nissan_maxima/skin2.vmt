@@ -1,0 +1,9 @@
+patch
+{
+	include "materials/models/OCDEV/cars/generic/colors/paint_black.vmt"
+	insert
+	{
+	$basetexture "models/OCDEV/cars/generic/1997_nissan_maxima/body"
+	$bumpmap "models/OCDEV/cars/generic/1997_nissan_maxima/body_bump"
+	}
+}

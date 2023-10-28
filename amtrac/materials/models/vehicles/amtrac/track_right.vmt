@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"  "models/vehicles/amtrac/amtrac_treads"
+	"$bumpmap" 		  "models/vehicles/amtrac/amtrac_treads_normal"
+}

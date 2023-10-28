@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+         $basetexture  "models/wg_zil130/130_d"
+         $bumpmap  "models/wg_zil130/130_n"
+         $phongexponenttexture   "models/wg_zil130/130_s"
+         $detail  "detail/bm_paint_detail_02"
+         $blendtintbybasealpha 1
+         $nocull 1	
+	"$model" 1
+	"$halflambert" 0
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost" "0.1"	
+	"$phongfresnelranges"	"[ 1 6 15 ]"
+        "$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

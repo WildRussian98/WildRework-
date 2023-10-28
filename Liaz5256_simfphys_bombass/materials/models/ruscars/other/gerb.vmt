@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\RusCars\Other\gerb"
+    "$bumpmap" "models\RusCars\Other\gerb_normal"
+    "$alphatest" "1"
+}
+

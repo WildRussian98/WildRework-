@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/arhanp51/Camo_Base_Color"
+"$bumpmap" "models/arhanp51/Camo_Normal_OpenGL"
+"$ambientocculusion" "models/arhanp51/Camo_Mixed_AO"
+"$surfaceprop" "Metal"
+"$halflambert" 1
+"$nocull" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

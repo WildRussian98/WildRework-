@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/OCDEV/cars/generic/tire"
+	$bumpmap "models/OCDEV/cars/generic/tire_norm"
+	$blendtintbybasealpha "1"
+
+	$phong "1"
+	$phongexponent "2"
+	$phongboost ".05"
+	$phongfresnelranges "[.5 .8 1]"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

@@ -1,0 +1,42 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "models\mark2580\hlalyx\vehicles\truck_01\truck_a01"
+  	"$bumpmap"     "models\mark2580\hlalyx\vehicles\truck_01\truck_a01_n"
+
+    $phongexponenttexture "models\mark2580\hlalyx\vehicles\truck_01\green"
+    $lightwarptexture     "models\mark2580\hlalyx\vehicles\truck_01\lightwarp_metallic" 	
+	
+	$phong 1
+	$phongfresnelranges "[0.8 0.55 0.25]"
+	$phongexponent "25"	
+	$phongalbedotint 1
+	$phongboost 3.5
+	
+	$color "{35 80 120}" //$color2	
+	$blendtintbybasealpha 1
+ 	$blendtintcoloroverbase 0
+
+	$envmap "env_cubemap" 
+	$normalmapalphaenvmapmask "1" 						
+	$envmapfresnel "1"								
+	$envmaptint "[0.3 0.3 0.3]"
+	
+	
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          2	
+	
+		"$detail"                   "models\mark2580\hlalyx\vehicles\truck_01\Detail_metal7"
+	    "$detailblendfactor"        "0.6"
+	    "$detailscale"              "26"
+		"$detailblendmode"          "0"	
+} 
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+         $color2 "{ 0 0 0 }"
+	"$multipass" 0
+	"$phong" "1"
+	"$phongexponent" "125"
+	"$phongboost" "0.6"
+	"$phongfresnelranges"	"[0.4 1 4]"
+	"$phongalbedotint" "1"
+"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

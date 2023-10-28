@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials\inaki\models\vehicles\frontlines\allies\apc.vmt"
+	"replace"
+	{
+		"$basetexture" 	"inaki\models\vehicles\frontlines\allies\apc_mnu2"
+	}
+}

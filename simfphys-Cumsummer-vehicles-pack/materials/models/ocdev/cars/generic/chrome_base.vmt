@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/OCDEV/cars/generic/chrome"
+	$bumpmap "models/OCDEV/cars/generic/nobump"
+	$blendtintbybasealpha "1"
+	$normalmapalphaenvmapmask "1"
+	$nodiffusebumplighting "1"
+
+	$envmap "env_cubemap"
+	$envmaptint "[.5  .5  .5]"
+//	$envmapsaturation "0"
+
+	$phong "1"
+	$phongexponent "3"
+	$phongboost "1.5"
+	$phongfresnelranges "[.5 .8 1]"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/OCDEV/cars/generic/fabric"
+	$bumpmap "models/OCDEV/cars/generic/nobump"
+	$blendtintbybasealpha "1"
+	$nodiffusebumplighting "1"
+
+	$phong "1"
+	$phongexponent "5"
+	$phongboost ".1"
+	$phongfresnelranges "[.5 .8 1]"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

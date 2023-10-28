@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\M142\mtvr_tires"
+	"$bumpmap"					"models\M142\mtvr_tires_n"
+	"$nocull" "1"
+	"$phong"	"1"
+	"$phongexponent"	"300"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.2"
+	"$phongfresnelranges"	"[3 7 8]"
+}

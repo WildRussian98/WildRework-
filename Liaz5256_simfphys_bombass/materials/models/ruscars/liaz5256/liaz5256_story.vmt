@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\RusCars\LIAZ5256\liaz5256_story"
+        "$blendtintbybasealpha" 1
+}

@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+$basetexture	"models/vehicles/bf4_vdv_buggy/vdv_buggy_misc"
+$bumpmap	"models/vehicles/bf4_vdv_buggy/vdv_buggy_normal"
+$halflambert 	1
+$nocull 		1
+//
+$detail 		"models/vehicles/bf4_vdv_buggy/detail_metal"
+$detailscale	32
+}

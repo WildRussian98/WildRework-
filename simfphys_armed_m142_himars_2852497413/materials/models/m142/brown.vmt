@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/M142/brown"
+	"$bumpmap" "models/M142/bump1"
+		"$nocull" "1"
+	"$phong"	"1"
+	"$phongexponent"	"157"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.2"
+	"$phongfresnelranges"	"[3 7 8]"

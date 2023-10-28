@@ -1,0 +1,21 @@
+patch
+{
+	include "materials/models/OCDEV/cars/generic/paint_base.vmt"
+	insert
+	{
+	$detail "models/OCDEV/cars/generic/colors/paint_epilepsy"
+	$envmaptint "[.9 1 1.1]"
+	$phongexponent "2"
+	$phongboost "1"
+	$phongtint "{215 235 255}"
+        "Proxies"
+        {
+            "TextureScroll"
+            {
+                "textureScrollVar" "$detailtexturetransform"
+                "textureScrollRate" 6
+                "textureScrollAngle" 180
+            }
+        }
+	}
+}

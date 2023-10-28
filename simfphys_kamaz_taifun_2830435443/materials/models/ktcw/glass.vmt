@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/ktcw/glass"
+"$bumpmap" "models/ktcw/bumpmap_alt"
+"$ambientocculusion" "models/ktcw/glass_sp"
+"$surfaceprop" "Glass"
+"$nocull" 1
+"$halflambert" 1
+"$translucent" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/re7_dodge/dodge_wheels_2"
+	"$bumpmap" "models/re7_dodge/dodge_wheels_n"
+        "$detail"  "detail/bm_paint_detail_01c"
+"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

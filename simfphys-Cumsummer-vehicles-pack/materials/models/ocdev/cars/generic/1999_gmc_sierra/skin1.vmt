@@ -1,0 +1,9 @@
+patch
+{
+	include "materials/models/OCDEV/cars/generic/colors/paint_pewter.vmt"
+	insert
+	{
+	$basetexture "models/OCDEV/cars/generic/1999_gmc_sierra/body_2"
+	$bumpmap "models/OCDEV/cars/generic/1999_gmc_sierra/body_bump_2"
+	}
+}

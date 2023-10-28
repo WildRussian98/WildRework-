@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_vehicles/jcv01"
+        $color2 "{ 255.0 255.0 255.0}"
+		"$colorfix" "{255 255 255}"
+}

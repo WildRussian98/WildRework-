@@ -1,0 +1,9 @@
+patch
+{
+	include "materials/models/OCDEV/cars/generic/colors/paint_palepurple.vmt"
+	insert
+	{
+	$basetexture "models/OCDEV/cars/generic/1996_plymouth_grand_voyager/body"
+	$bumpmap "models/OCDEV/cars/generic/1996_plymouth_grand_voyager/body_bump"
+	}
+}

@@ -1,0 +1,4 @@
+VertexLitGeneric
+{
+	$basetexture "models/engineer/2s3m/2s3_body_diff"
+}

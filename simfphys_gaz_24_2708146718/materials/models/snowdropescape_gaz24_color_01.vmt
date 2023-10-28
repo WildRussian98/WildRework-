@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 					"models\SnowdropEscape_Gaz24_color_01"
+	"$envmapmaskintintmasktexture" "1"	
+	
+	"$blendtintbybasealpha" 1
+	
+	"$surfaceprop" 			"metalvehicle"
+	
+	"$envmap"			"env_cubemap"
+	"$envmaplightscale"		"1"
+	"$envmaplightscaleminmax" 	"[0 1]"
+	"$envmapcontrast" 		".5"
+}

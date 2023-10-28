@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\merydian_vehicles\crysis2\h2\h2_tire_diff"
+	"$bumpmap" "models\merydian_vehicles\crysis2\h2\h2_tire_normal"
+	
+	"$nocull" "0"
+	"$phong" 		"1"
+	"$phongexponent" 		"25"
+	"$phongboost" 		"0.15"
+	"$phongfresnelranges" 	"[1 3 6]"
+	"$phongalbedotint"		"1"
+}

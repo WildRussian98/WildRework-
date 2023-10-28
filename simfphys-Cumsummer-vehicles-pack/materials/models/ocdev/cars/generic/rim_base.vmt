@@ -1,0 +1,40 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/OCDEV/cars/generic/1995_pontiac_sunfire/body"
+	$bumpmap "models/OCDEV/cars/generic/1995_pontiac_sunfire/body_bump"
+	$surfaceprop "metal"
+	$nodiffusebumplighting "1"
+
+	$detail "models/OCDEV/cars/generic/rim"
+	$detailscale "1"
+	$detailblendfactor "1"
+	$detailblendmode "4"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask "1"
+//	$envmaptint "[.3  .3  .3]"
+//	$envmapsaturation ".3"
+//	$envmapcontrast ".5"
+	$envmaptint "[.1  .1  .1]"
+	$envmapfresnel "1"
+
+	$phong "1"
+	$phongexponent "1.5"
+	$phongboost "3"
+	$phongfresnelranges "[1 0 0]"
+"$colorfix" "{255 255 255}"
+"Proxies"
+	{
+	"AnimatedTexture"
+		{
+		"animatedtexturevar" "$bumpmap"
+		"animatedtextureframenumvar" "$bumpframe"
+		"animatedtextureframerate" "30"
+		}
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

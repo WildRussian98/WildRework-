@@ -1,0 +1,11 @@
+patch
+{
+	include "materials/models/OCDEV/cars/generic/paint_base.vmt"
+	insert
+	{
+	$detail "models/OCDEV/cars/generic/colors/paint_rosewood"
+	$envmaptint "[1.05 .97 .98]"
+	$phongexponent "5"
+	$phongtint "{70 30 40}"
+	}
+}

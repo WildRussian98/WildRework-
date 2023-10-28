@@ -1,0 +1,8 @@
+patch
+{
+	include "materials/models/OCDEV/cars/generic/lights_on_base.vmt"
+	insert
+	{
+	$basetexture "models/OCDEV/cars/generic/1997_nissan_maxima/lights_on"
+	}
+}

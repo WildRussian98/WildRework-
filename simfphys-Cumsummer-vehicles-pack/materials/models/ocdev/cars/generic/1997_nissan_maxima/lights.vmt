@@ -1,0 +1,17 @@
+patch
+{
+	include "materials/models/OCDEV/cars/generic/lights_base.vmt"
+	insert
+	{
+	$basetexture "models/OCDEV/cars/generic/1997_nissan_maxima/lights"
+	}
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

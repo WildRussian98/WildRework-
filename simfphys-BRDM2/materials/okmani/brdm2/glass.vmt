@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "Okmani/BRDM2/glass"
+	"$bumpmap"    "Okmani/BRDM2/glass_dk"
+}

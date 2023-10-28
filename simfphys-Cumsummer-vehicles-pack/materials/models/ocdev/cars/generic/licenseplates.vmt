@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/OCDEV/cars/generic/licenseplates"
+	$bumpmap "models/OCDEV/cars/generic/nobump"
+	$nodiffusebumplighting "1"
+	$nocull "1"
+
+	$phong "1"
+	$phongexponent "50"
+	$phongboost ".8"
+	$phongfresnelranges "[.5 .8 1]"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

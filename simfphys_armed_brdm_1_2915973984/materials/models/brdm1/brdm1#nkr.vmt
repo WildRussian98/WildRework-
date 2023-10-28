@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/brdm1/brdm1#nkr"
+"$bumpmap" "models/brdm1/bumpmap_alt"
+"$ambientocculusion" "models/brdm1/brdm1_s"
+"$surfaceprop" "Metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

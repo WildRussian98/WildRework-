@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/bypolat/tanklar/obus/lambalar"
+	"$surfaceprop" "metal"
+}

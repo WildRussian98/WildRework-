@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+         $basetexture  "models/opel_blitz/opel_d"
+         $bumpmap  "models/opel_blitz/opel_n"
+         $detail  "detail/bm_paint_detail_02"
+         $nocull 1	
+	"$model" 1
+	"$halflambert" 1
+	"$phong" "1"
+	"$phongexponent" "170"
+	"$phongboost" "0.1"	
+	"$phongfresnelranges"	"[ 1 6 15 ]"
+        "$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

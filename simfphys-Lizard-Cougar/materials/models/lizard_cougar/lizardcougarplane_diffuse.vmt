@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/lizard_cougar/lizardCougarPlane_diffuse"
+"$bumpmap" "models/lizard_cougar/bumpmap_alt"
+"$ambientocculusion" "models/lizard_cougar/lizardCougarPlane_specular"
+"$surfaceprop" "Metal"
+"$nocull" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"
+"$phongfresnelranges" "[.3 1 7]"
+}

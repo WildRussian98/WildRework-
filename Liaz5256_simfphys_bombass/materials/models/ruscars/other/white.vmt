@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\RusCars\Other\white"
+    "$blendtintbybasealpha" 1
+}

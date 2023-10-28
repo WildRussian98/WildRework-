@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	$basetexture "models/OCDEV/cars/generic/shadow"
+	$translucent "1"
+	$ambientocclusion "0"
+}

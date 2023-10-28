@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/OCDEV/cars/generic/paint_dirty"
+//	$bumpmap "models/OCDEV/cars/generic/nobump_dirty"
+	$bumpmap "models/OCDEV/cars/generic/fabricbump_dirty"
+//	$lightwarptexture "models/OCDEV/cars/generic/lightwarp"
+	$surfaceprop "metal"
+	$nodiffusebumplighting "1"
+	$nocull "1"
+
+	$detail "models/OCDEV/cars/generic/plastic"
+	$detailscale "1"
+	$detailblendfactor "1"
+	$detailblendmode "4"
+
+	$phong "1"
+	$phongexponent "5"
+	$phongboost ".1"
+	$phongfresnelranges "[.5 .8 1]"
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}
+}

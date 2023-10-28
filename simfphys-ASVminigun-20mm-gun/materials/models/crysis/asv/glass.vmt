@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/crysis/asv/glass"
+	"$bumpmap" "null-bumpmap"
+	"$nocull" 1
+	"$translucent" 1
+	"$additive" 1				
+
+	"$phong" "1"
+	"$phongboost"	"1" 		
+	"$phongexponent" "25"
+	"$phongfresnelranges"	"[0.3 1 4]"
+	"$PhongAlbedoTint" "1"	
+                "$lightwarptexture" "common/lightwarp"
+}

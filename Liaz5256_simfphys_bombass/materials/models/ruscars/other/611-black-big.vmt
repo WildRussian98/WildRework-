@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\RusCars\Other\611-black-big"
+    "$bumpmap" "models\RusCars\Other\611-black-big_normal"
+	"$blendtintbybasealpha" 1
+}

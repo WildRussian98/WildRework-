@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\vaz2106\wheel_f"
+	"$bumpmap" "models\vaz2106\wheel_fDOT3"
+	"$normalmapalphaenvmapmask" 1
+	"$model" 1
+// Phong parameters
+	"$phong" "1"
+	"$phongboost"	"0.5"
+	"$phongexponent" "4"
+	"$phongfresnelranges"	"[1 1 1]"
+}

@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/engineer/2s3m/track"
+	"$color1" "[1 1 1]"
+	"$alphatest" "0"
+	"$nocull" "1"	
+	
+	"$phong" "1"						
+	"$phongboost"	"2" 		
+	"$phongexponent" "15"
+	"$phongfresnelranges"	"[0.3 1 4]" 
+                 "$lightwarptexture" "common/lightwarp"	
+}

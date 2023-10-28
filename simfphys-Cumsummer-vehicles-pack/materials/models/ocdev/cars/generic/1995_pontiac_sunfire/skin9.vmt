@@ -1,0 +1,9 @@
+patch
+{
+	include "materials/models/OCDEV/cars/generic/colors/paint_paleblue.vmt"
+	insert
+	{
+	$basetexture "models/OCDEV/cars/generic/1995_pontiac_sunfire/body"
+	$bumpmap "models/OCDEV/cars/generic/1995_pontiac_sunfire/body_bump"
+	}
+}

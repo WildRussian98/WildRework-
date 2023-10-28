@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\RusCars\Other\glass1"
+	"$translucent" 1
+        "$blendtintbybasealpha" 1
+}

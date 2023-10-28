@@ -1,0 +1,15 @@
+"VertexlitGeneric" //gener 2311
+{
+	"$basetexture" "models/SnowdropEscape_Gaz24_volga_title"
+	"$alphatest" 1
+	"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}
+

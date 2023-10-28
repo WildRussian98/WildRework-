@@ -1,0 +1,7 @@
+"VertexlitGeneric" //gener 2311
+{
+$baseTexture "models/(E34D-FSD2-FN2J)car_glass_01"
+$translucent 1
+$nocull 1
+$model 1
+}

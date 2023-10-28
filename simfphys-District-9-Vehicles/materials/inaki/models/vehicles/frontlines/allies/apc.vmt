@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "inaki\models\vehicles\frontlines\allies\apc"
+	"$surfaceprop" "metal"
+	"$bumpmap" "inaki\models\vehicles\frontlines\allies\apc_normal"
+
+//	"$envmap" "env_cubemap"	
+//	"$normalmapalphaenvmapmask" 1
+//	"$envmaptint" "[ .75 .75 .75]"
+//	"$envmapcontrast" 1
+
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0.5 2 4]"
+}

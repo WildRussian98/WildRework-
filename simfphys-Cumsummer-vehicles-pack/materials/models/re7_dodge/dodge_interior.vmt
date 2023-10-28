@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/re7_dodge/dodge_interior"
+	"$bumpmap" "models/re7_dodge/dodge_interior_n"
+	"$multipass" 0
+	"$phong" "1"
+	"$phongexponent" "200"
+	"$phongboost" "0.1"
+	"$phongfresnelranges"	"[0.4 1 4]"
+	"$phongalbedotint" "1"
+"$colorfix" "{255 255 255}"
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}

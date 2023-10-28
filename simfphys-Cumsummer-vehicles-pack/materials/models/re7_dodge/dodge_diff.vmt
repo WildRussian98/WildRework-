@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/re7_dodge/dodge_diff_color_2"
+	"$bumpmap" "models/re7_dodge/dodge_diff_n2"
+        "$blendtintbybasealpha" 1
+        "$detail"  "detail/bm_paint_detail_01c"
+        "$detailscale" 5
+        "$detailblendfactor" ".6"
+		"$gmodtoolcolor" "{187 76 29}"
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0"
+	"$phongfresnelranges"	"[1 1.5 4]"
+	"$phongalbedotint" "1"
+        "$BasemapAlphaPhongMask" 1
+        "$PhongWarpTexture" "detail/bm_paint_detail_01c"
+        "$phongexponenttexture" "models/re7_dodge/dodge_diff_color_2"
+
+        "$envmap" "env_cubemap"
+        "$envmaptint" "[.02 .02 .02]"
+        "$envmapfresnel" 1
+}

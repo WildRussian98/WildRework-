@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/OCDEV/cars/generic/1995_pontiac_sunfire/lights_on"
+	$bumpmap "models/OCDEV/cars/generic/nobump"
+	$surfaceprop "glass"
+	$halflambert "1"
+	$nodiffusebumplighting "1"
+
+	$selfillum "1"
+	$selfillumtint "[2.5 2.2 2]"
+	$selfillumfresnel "1"
+	$selfillumfresnelminmaxexp "[.01 1.5 2]"
+
+	$envmap "env_cubemap"
+	$envmaptint "[.25 .25 .25]"
+}

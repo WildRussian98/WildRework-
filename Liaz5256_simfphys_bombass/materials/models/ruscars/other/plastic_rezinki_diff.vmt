@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\RusCars\Other\Plastic_rezinki_diff"
+    "$bumpmap" "models\RusCars\Other\Plastic_rezinki_diff_normal"
+	"$blendtintbybasealpha" 1
+	"$nodecal" "1"
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongboost" ".07" 
+	"$phongfresnelranges" "[.5 .2 2]" 
+	"$phongexponent" 2.5
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" ".1"
+	"$rimmask" "1"
+}
