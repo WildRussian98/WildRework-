@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\merydian_tanks\t90a\t90a_diff_2"
+	"$bumpmap" "models\merydian_tanks\t90a\t90a_normal"
+	
+	"$nocull" "0"
+	"$phong" 		"1"
+	"$phongexponent" 		"25"
+	"$phongboost" 		"0.15"
+	"$phongfresnelranges" 	"[1 3 6]"
+	"$phongalbedotint"		"1"
+}

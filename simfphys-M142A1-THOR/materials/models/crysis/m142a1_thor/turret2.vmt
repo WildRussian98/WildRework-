@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/crysis/M142A1_Thor/turret2"
+	"$bumpmap" "models/crysis/M142A1_Thor/turret_n"
+	"$halflambert" "1"				
+	"$color1" "[1 1 1]"
+	"$alphatest" "0"
+	"$nocull" "1"	
+	
+	"$phong" "1"						
+	"$phongboost"	"2" 		
+	"$phongexponent" "15"
+	"$phongfresnelranges"	"[0.3 1 4]" 
+                 "$lightwarptexture" "common/lightwarp"	
+}

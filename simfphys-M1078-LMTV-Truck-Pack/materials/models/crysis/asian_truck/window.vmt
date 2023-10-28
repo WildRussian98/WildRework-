@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/crysis/asian_truck/window"
+	"$bumpmap" "null-bumpmap"
+	"$nodecal" "1"
+	"$nocull" "1"
+
+	"$translucent" 1
+	"$halflambert" 1
+	"$phong" "1" 
+	"$phongboost" "1" 
+	"$phongexponent" "15"
+	"$phongfresnelranges" "[3 5 7]"
+
+}

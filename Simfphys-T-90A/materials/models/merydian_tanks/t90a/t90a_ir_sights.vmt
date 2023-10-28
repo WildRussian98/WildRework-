@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\merydian_tanks\t90a\red_eyes"
+
+	"$selfillum" "1"
+}

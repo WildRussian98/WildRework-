@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"  "models/vehicles/avx_t62/t62_treads_D"
+  "$bumpmap" 		  "models/vehicles/avx_t62/t62_treads_N"
+}

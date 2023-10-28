@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\Kali\vehicles\BO2\Cougar\Cougar_Glass_D_C"
+	"$bumpmap" "models\Kali\vehicles\BO2\Cougar\Cougar_Glass_D_N"
+			
+	"$nocull" 0	
+	"$translucent" 1	
+
+	"$normalmapalphaenvmapmask" 1				
+	"$envmap" "env_cubemap"					
+	"$envmaptint" "[ .1 .1 .1 ]"					
+ 	"$envmapFresnel" "0.5"					
+
+	"$phong" "1"						
+	"$phongexponenttexture" "models\Kali\vehicles\BO2\Cougar\Cougar_Glass_D_Exp"
+	"$phongboost" "0.5"						
+	"$phongfresnelranges"	"[ .2 1.2 8]"	
+
+	"$PhongAlbedoTint" "1"		
+
+}
+
+

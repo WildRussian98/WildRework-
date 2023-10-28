@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"  "models/vehicles/technical/pickup_truck_rockets"
+  "$bumpmap" 		  "models/vehicles/technical/pickup_truck_rockets_normal"
+
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.2 0.2 0.2]"
+	$envmapcontrast "1"
+	$envmapsaturation "0.1"
+}

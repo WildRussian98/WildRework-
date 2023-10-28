@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/crysis/apc/body3"
+	"$bumpmap" "models/crysis/apc/body3_n"
+	"$halflambert" "1"				
+	"$nocull" 1		
+
+	"$phong" "1"
+	"$phongboost"	"2" 		
+	"$phongexponent" "15"
+	"$phongfresnelranges"	"[0.3 1 4]"
+	"$PhongAlbedoTint" "1"	
+                "$lightwarptexture" "common/lightwarp"
+}

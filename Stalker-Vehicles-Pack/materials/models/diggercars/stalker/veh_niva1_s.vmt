@@ -1,0 +1,35 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/DiggerCars/stalker/veh_niva1"
+	"$bumpmap" "models/DiggerCars/stalker/veh_niva_bump"
+
+	"$phong" "1" 
+	"$phongboost" "0.04" 
+	"$phongexponent" 3
+	"$phongfresnelranges" "[1 1 1]" 
+	"$colorfix" "{255 255 255}"
+
+	"$detail" "models/DiggerCars/stalker/veh_niva1s_s"
+	"$detailscale" "1"
+	"$detailblendfactor" "1"
+	"$detailblendmode" "5"
+
+	"Proxies"
+	{
+		"Equals"
+		{
+			srcVar1 $colorfix
+			resultVar	$color
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+

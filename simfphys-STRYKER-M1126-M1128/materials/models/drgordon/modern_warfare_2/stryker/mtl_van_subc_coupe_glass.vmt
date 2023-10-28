@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\drgordon\modern_warfare_2\van_honda_odyssey\mtl_van_subc_coupe_glass"
+	"$nocull" "1"
+	"$phong"	"1"
+	"$phongexponent"	"7"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.2"
+	"$phongfresnelranges"	"[3 7 8]"
+	"$translucent" "1"
+}

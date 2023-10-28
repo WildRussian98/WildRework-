@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\drgordon\modern_warfare_2\stryker\stryker_slat_armour_desert"
+	"$bumpmap"					"models\drgordon\modern_warfare_2\stryker\stryker_slat_armour_n"
+	"$nocull" "1"
+	"$phong"	"1"
+	"$phongexponent"	"97"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.1"
+	"$phongfresnelranges"	"[3 7 8]"
+	"$translucent" "1"
+}

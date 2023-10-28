@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/crysis/m5a2/armor"
+	"$color1" "[1 1 1]"
+	"$alphatest" "0"
+	"$nocull" "1"	
+	
+	"$phong" "0"						
+	"$phongboost"	"3" 		
+	"$phongexponent" "15"
+	"$phongfresnelranges"	"[0.3 1 4]" 
+                 "$lightwarptexture" "common/lightwarp"	
+}

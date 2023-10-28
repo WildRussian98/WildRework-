@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Gashelmet\Argentine_Army\Vehicles\Tanque_Argentino_Mediano\TAM_L_D"
+	"$bumpmap"    "models\Gashelmet\Argentine_Army\Vehicles\Tanque_Argentino_Mediano\TAM_L_N"
+	"$phongwarptexture" "models\Gashelmet\Argentine_Army\Vehicles\Lightwarp"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"					
+	"$envmaptint" "[ .01 .01 .01 ]"					
+ 	"$envmapFresnel" "0.25"	
+	"$nocull" "1"
+	"$alphatest" "1"
+	"$phongalbedotint" 1
+	"$halflambert" "1"	
+	"$phong" "1"										
+	"$phongboost" ".3"
+	"$phongexponent" "20"	
+	"$phongfresnelranges"	"[.1 .1 30]"
+	
+		"Proxies" 
+	{
+	"TextureScroll"
+	{
+	"texturescrollvar" "$basetexturetransform"
+	"texturescrollrate" 10
+	"texturescrollangle" -90
+	}
+	}	
+
+
+}
+
+

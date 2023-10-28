@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\kali\vehicles\cod4\uaz\vehicle_uaz_tire_desert_bo2_col"
+	"$bumpmap" "models\kali\vehicles\cod4\uaz\vehicle_uaz_tire_n"
+	"$halflambert" "1"				
+	"$nocull" 1		
+
+	"$normalmapalphaenvmapmask" 1				
+	"$envmap" "env_cubemap"					
+	"$envmaptint" "[ .1 .1 .1 ]"					
+ 	"$envmapFresnel" "0.5"					
+
+	"$phong" "1"						
+	"$phongexponenttexture" "models\kali\vehicles\cod4\uaz\vehicle_uaz_tire_exp"
+	"$phongboost" "1.5"						
+	"$phongfresnelranges"	"[ .2 1.2 8]"	
+
+	"$PhongAlbedoTint" "1"		
+
+}
+
+

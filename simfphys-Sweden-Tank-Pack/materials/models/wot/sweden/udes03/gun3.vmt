@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/wot/sweden/udes03/gun"
+	"$bumpmap" "models/wot/sweden/udes03/gun_n"
+	"$color1" "[1 1 1]"
+	"$nocull" "1"	
+	
+	"$phong" "1"						
+	"$phongboost"	"3" 		
+	"$phongexponent" "15"
+	"$phongfresnelranges"	"[0.3 1 4]" 
+                "$lightwarptexture" "models/wot/sweden/strv74/common/lightwarp"
+				"$detail" "models/wot/sweden/strv74/camo/desert2"
+                "$detailblendmode" 4
+                "$detailscale" 1				
+}

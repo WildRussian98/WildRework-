@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+
+	"$basetexture" "models\(Abrams)\M1A2Sepv2\turret2"
+	"$bumpmap" "models\(Abrams)\M1A2Sepv2\turret_n"
+	"$halflambert" "1"				
+
+                "$alphatest" 0		
+					
+	"$phongexponenttexture" "models\(Abrams)\M1A2Sepv2\turret_w"
+	"$phong" "1"						
+	"$phongexponent" 		"20"
+	"$phongboost" 		"1.5"
+	"$phongfresnelranges" 	"[1 3 6]"
+	"$phongalbedotint"		"1"	
+		
+}

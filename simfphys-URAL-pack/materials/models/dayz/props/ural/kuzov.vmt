@@ -1,0 +1,6 @@
+"vertexlitgeneric" 
+{
+
+		"$basetexture" "models/Dayz/Props/ural/kuzov"
+		"$bumpmap"     "models/Dayz/Props/ural/kuzov_n"
+}

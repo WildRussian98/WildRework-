@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"  "models/vehicles/technical/pickup_truck"
+	"$bumpmap" 		  "models/vehicles/technical/pickup_truck_normal"
+	"$model" "1"
+	"$blendtintbybasealpha" "1"
+}
